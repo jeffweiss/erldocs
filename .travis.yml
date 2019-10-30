@@ -10,9 +10,11 @@ notifications:
   email:
     on_success: never
 otp_release:
+- 22.0
+- 21.2
 - 20.2
 - 19.0
 - 18.1
-# - 17.5 Fail due to missing merl app.
+# - 17.5 Fails due to missing merl app.
 # - R16B03-1
 # - R15B03
